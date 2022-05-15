@@ -54,16 +54,6 @@ google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
-lsi: false
-safe: true
-source: github.com/creativewild/core-docs
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 google_analytics:
   id:                 # fill in your Google Analytics ID
@@ -205,3 +195,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
